@@ -1,0 +1,1 @@
+the player is moved by using the arrow keys.
